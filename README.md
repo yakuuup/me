@@ -1,8 +1,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RileCraft" alt="RileCraft" /> </p>
-📌 ╎ Im RileCraft and i am currently a student who likes to program and do dumb things when bored or free.<br>
-✒╎ I am currently learning JavaScript and soon other languages.<br>
-🤖╎ Currently making discord bots using `Discord.JS`.<br>
+📌 ╎ Im EinfxchJakob and i do dumb things when im bored<br>
+🤖 ╎ Currently making discord bots using `Discord.JS`.<br>
 👷 ╎  He / Him
 
 ### 🛠 &nbsp;Programming Languages
