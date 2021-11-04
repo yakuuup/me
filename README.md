@@ -1,5 +1,5 @@
 ### 👨🏻‍💻 &nbsp;About Me
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RileCraft" alt="RileCraft" /> </p>
+
 📌 ╎ Im EinfxchJakob and i do dumb things when im bored<br>
 🤖 ╎ Currently making discord bots using `Discord.JS`.<br>
 👷 ╎  He / Him
