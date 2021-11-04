@@ -21,5 +21,3 @@
 ### 🤝🏻 &nbsp;Discord Contact
 
 📌 ╎ EinfxchJakob#8968
-<a href="https://discord.gg/xgQUnjAT3P"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://discord.gg/CXG57tWAqf"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
