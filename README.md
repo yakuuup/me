@@ -1,13 +1,13 @@
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Meee lul
 
-📌 ╎ Im EinfxchJakob and i do dumb things when im bored<br>
+📌 ╎ Im yakup and i do dumb things when im bored<br>
 👷 ╎  He / Him<br>
 *:(*
 
 
 
-### 🛠 &nbsp;Programming Languages
+### 🛠 &nbsp;Programming Languages ig
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
@@ -20,5 +20,5 @@
 
 ### 🤝🏻 &nbsp;Discord / Contact
 
-📌 ╎ EinfxchJakob#8968
-📌 ╎ EinfxchJakob@gmail.com
+📌 ╎ kuschelnder#8968
+
