@@ -1,5 +1,5 @@
 
-### 👨🏻‍💻 &nbsp;About Meee lul
+### 👨🏻‍💻 &nbsp;About Meee xd
 
 📌 ╎ Im yakup and i do dumb things when im bored<br>
 👷 ╎  He / Him<br>
@@ -18,7 +18,7 @@
 
 
 
-### 🤝🏻 &nbsp;Discord / Contact
+### 🤝🏻 &nbsp;Discord
 
-📌 ╎ kuschelnder#8968
+📌 ╎ yakuuup#8968
 
